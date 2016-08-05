@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#set your switchPHPVersionForXampp.git Path
+gitPath='./'
+
+#set your xampp path
+xamppPath='C:/xampp'
